@@ -1440,11 +1440,11 @@ Death_interaction_5 = ["",
 
 # Music
 
-Cave_Music_1 = "Sound/Music/AliensDream-FULL.mp3"
-Cave_Music_2 = "Sound/Music/NazcaFULL.mp3"
-Intro_1 = "Sound/Music/TheCrossover-FULL.mp3"
-Intro_2 = "Sound/Music/InParadise-FULL.mp3"
-Intro_3 = "Sound/Music/SepiaGuitarStrings-FULL.mp3"
+Cave_Music_1 = "Sound/Music/AliensDream-FULL.ogg"
+Cave_Music_2 = "Sound/Music/NazcaFULL.ogg"
+Intro_1 = "Sound/Music/TheCrossover-FULL.ogg"
+Intro_2 = "Sound/Music/InParadise-FULL.ogg"
+Intro_3 = "Sound/Music/SepiaGuitarStrings-FULL.ogg"
 
 # Effects
 Transformation_1 = "Sound/Effects/Appear.wav"
@@ -1460,7 +1460,7 @@ Unfold_Paper = "Sound/Effects/Book_Pages.wav"
 
 Bull = "Sound/Effects/Bull.wav"
 
-End = "Sound/Music/EndGameMusic.mp3"
+End = "Sound/Music/EndGameMusic.ogg"
 
 Sell_Or_Buy = "Sound/Effects/Coin_Drop.wav"
 
@@ -1481,7 +1481,7 @@ Arrow_Fly_2 = "Sound/Effects/Swoosh_3.wav"
 
 MagicCaos = "Sound/Effects/MagicCaos.wav"
 Boir = "Sound/Effects/Boir.wav"
-Dead = "Sound/Music/Sad.mp3"
+Dead = "Sound/Music/Sad.ogg"
 Ghost_Screams = "Sound/Effects/Dying_Soul.wav"
 Ghost_Sounds_1 = "Sound/Effects/Spooky_Chains.wav"
 Ghost_Sounds_2 = "Sound/Effects/Strange_Days.wav"
@@ -1520,39 +1520,39 @@ Swimming = "Sound/Effects/Water_Chunrning.wav"
 MagicFinal = "Sound/Effects/MagicSuperAtack.wav"
 Mud_Sound = "Sound/Effects/Slime.wav"
 
-Lost = "Sound/Effects/LostItem.mp3"
-Fail = "Sound/Effects/Fail.mp3"
+Lost = "Sound/Effects/LostItem.ogg"
+Fail = "Sound/Effects/Fail.ogg"
 
 Sword_Swing = "Sound/Effects/Sword_Swing.wav"
 
 Footsteps_1 = "Sound/Effects/Footsteps_1.wav"
 Footsteps_2 = "Sound/Effects/Footsteps_2.wav"
 Running_Loud = "Sound/Effects/Running_Loud.wav"
-Running = "Sound/Effects/Jogging-In-a-Forest.mp3"
+Running = "Sound/Effects/Jogging-In-a-Forest.ogg"
 
 Snake_Attack = "Sound/Effects/Snake_Attack.wav"
 Punch = "Sound/Effects/Intense-punch.wav"
 Snake_Poison = "Sound/Effects/SnakeyWoman.wav"
 Dodge = "Sound/Effects/BambooSwing.wav"
 
-Smash = "Sound/Effects/BigSmash.mp3"
+Smash = "Sound/Effects/BigSmash.ogg"
 
 Eating = "Sound/Effects/EatingChips.wav"
 
 Magic_Spell = "Sound/Effects/MagicSpell.wav"
 Amaterasu = "Sound/Effects/FireMagic.wav"
 Youre_Mine = "Sound/Effects/YoureMine.wav"
-Magic_Shield = "Sound/Effects/MagicShield.mp3"
+Magic_Shield = "Sound/Effects/MagicShield.ogg"
 
-worm = "Sound/Music/Worm.mp3"
+worm = "Sound/Music/Worm.ogg"
 
-Grabing = "Sound/Effects/Grab.mp3"
+Grabing = "Sound/Effects/Grab.ogg"
 
-MonsterRun = "Sound/Effects/MonsterRun.mp3"
+MonsterRun = "Sound/Effects/MonsterRun.ogg"
 
 GlassBreak = "Sound/Effects/GlassSmash.wav"
 StepInGrass = "Sound/Effects/WalkGrass.wav"
 
-Raccoon_Sound = "Sound/Music/Worm.mp3"
+Raccoon_Sound = "Sound/Music/Worm.ogg"
 
-Error = "Sound/Effects/ErrorBleep.mp3"
+Error = "Sound/Effects/ErrorBleep.ogg"
