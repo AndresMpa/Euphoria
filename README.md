@@ -15,4 +15,6 @@ This game is running in pygame, so you need to use python 2
 the recommended way is to use [virtualenv](https://pypi.org/project/virtualenv/)
 just as the following example:
 
-`$ virtualenv -p /usr/bin/python2.7 env $ source env/bin/activate $ pip install -r requirements.txt`
+`$ ./install.sh`
+
+Note: This may not work on windows, if you are running in on windows you have to install it manually
